@@ -21,13 +21,13 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
 .kartu-profil {
   /*<!DOCTYPE html>
 <html>
-<head>
+<head><link rel="stylesheet" href="style.css">
     <title>keysia</title>
 </head>
 <body>
 
     <!-- Menampilkan Foto -->
-    <img src="keysia.jpg" alt="keysia nur aini putri santoso" width="200">
+    <img src="foto key.jpeg" alt="keysia nur aini putri santoso" width="200">
 
     <!-- Nama Utama -->
     <h1>keysia nur aini putri santoso</h1>
@@ -47,4 +47,3 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
 </html>
   text-align: center; /* menengahkan semua teks di dalam kartu */
 }
-! {keysia nur aini putri santoso}(foto key.jpeg)
