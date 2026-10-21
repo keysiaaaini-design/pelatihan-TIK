@@ -19,6 +19,31 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
   border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
-  /*
+  /*<!DOCTYPE html>
+<html>
+<head>
+    <title>keysia</title>
+</head>
+<body>
+
+    <!-- Menampilkan Foto -->
+    <img src="keysia.jpg" alt="keysia nur aini putri santoso" width="200">
+
+    <!-- Nama Utama -->
+    <h1>keysia nur aini putri santoso</h1>
+
+    <!-- Deskripsi Singkat -->
+    <p>siswa smk yang tertarik dengan teknologi desain. selamat datang di website pertama saya!</p>
+
+    <!-- Tautan ke Instagram -->
+    <a href="https://instagram.com">kunjungi instagram saya</a>
+
+    <br><br>
+
+    <!-- Tombol Sapaan -->
+    <button id="sapabutton">sapa saya</button>
+
+</body>
+</html>
   text-align: center; /* menengahkan semua teks di dalam kartu */
 }
